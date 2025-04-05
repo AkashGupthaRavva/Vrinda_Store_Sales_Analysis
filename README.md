@@ -47,6 +47,7 @@ This project involved an in-depth analysis of **Vrinda Store’s 2022 sales data
 │
 ├── 📊 Sales_Analysis_Dashboard.xlsx     # Excel file with all analysis and visuals
 ├── 📄 README.md                         # Project documentation
+├── 📄 Vrinda_Store_Annual_Sales_Report_2022.pdf  # Final sales report with insights and recommendations
 └── 📁 images/                           # Supporting visuals and charts
 ```
 
